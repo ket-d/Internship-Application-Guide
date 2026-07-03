@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ketura Yaje Gwei | International Internship Guide</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        body{
+            background:#f4f7fb;
+            color:#333;
+            line-height:1.7;
+        }
+
+        header{
+            background:linear-gradient(135deg,#0f172a,#1d4ed8);
+            color:white;
+            text-align:center;
+            padding:70px 20px;
+        }
+
+        header h1{
+            font-size:3rem;
+            margin-bottom:15px;
+        }
+
+        header p{
+            font-size:1.2rem;
+            max-width:750px;
+            margin:auto;
+        }
+
+        .btn{
+            display:inline-block;
+            margin-top:30px;
+            padding:14px 30px;
+            background:white;
+            color:#1d4ed8;
+            text-decoration:none;
+            border-radius:30px;
+            font-weight:bold;
+            transition:.3s;
+        }
+
+        .btn:hover{
+            background:#e2e8f0;
+        }
+
+        nav{
+            background:#111827;
+            padding:18px;
+            text-align:center;
+            position:sticky;
+            top:0;
+        }
+
+        nav a{
+            color:white;
+            text-decoration:none;
+            margin:0 18px;
+            font-weight:bold;
+        }
+
+        nav a:hover{
+            color:#60a5fa;
+        }
+
+        section{
+            max-width:1100px;
+            margin:auto;
+            padding:60px 20px;
+        }
+
+        h2{
+            color:#1d4ed8;
+            margin-bottom:25px;
+            text-align:center;
+        }
+
+        .grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+            gap:25px;
+        }
+
+        .card{
+            background:white;
+            padding:25px;
+            border-radius:12px;
+            box-shadow:0 4px 12px rgba(0,0,0,.08);
+            transition:.3s;
+        }
+
+        .card:hover{
+            transform:translateY(-6px);
+        }
+
+        .card h3{
+            color:#1d4ed8;
+            margin-bottom:10px;
+        }
+
+        ul{
+            padding-left:20px;
+        }
+
+        .about{
+            background:white;
+            border-radius:12px;
+            padding:40px;
+            box-shadow:0 4px 12px rgba(0,0,0,.08);
+        }
+
+        footer{
+            background:#0f172a;
+            color:white;
+            text-align:center;
+            padding:35px 20px;
+            margin-top:50px;
+        }
+
+        @media(max-width:700px){
+
+            header h1{
+                font-size:2.2rem;
+            }
+
+            nav a{
+                display:block;
+                margin:10px 0;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>International Internship Applications Abroad</h1>
+
+    <p>
+        Helping students discover international research opportunities,
+        prepare competitive applications, and secure internships at leading
+        universities and research institutes around the world.
+    </p>
+
+    <a href="#about" class="btn">Learn More</a>
+
+</header>
+
+<nav>
+
+    <a href="#about">About Me</a>
+
+    <a href="#internships">Internship Types</a>
+
+    <a href="#tips">Application Tips</a>
+
+    <a href="#documents">Documents</a>
+
+    <a href="#contact">Contact</a>
+
+</nav>
+
+
+<section id="about">
+
+<h2>Why Learn From Me?</h2>
+
+<div class="about">
+
+<h3>Hello! I'm <span style="color:#1d4ed8;">Ketura Yaje Gwei</span>.</h3>
+
+<br>
+
+<p>
+
+I am a biochemist from Cameroon who is passionate about research,
+structural biology, and helping students access international opportunities.
+
+</p>
+
+<br>
+
+<p>
+
+Coming from a resource-limited background, I understand how confusing it
+can be to search for internships abroad, contact professors, prepare
+application documents, and compete with applicants from around the world.
+
+Through determination and continuous learning, I successfully secured
+competitive international research internships at some of the world's
+leading institutions, including:
+
+</p>
+
+<br>
+
+<ul>
+
+<li>🇨🇭 EPFL (École Polytechnique Fédérale de Lausanne), Switzerland</li>
+
+<li>🇩🇪 Max Planck Institute for Infection Biology, Germany</li>
+
+<li>🇩🇪 Admission into the prestigious Matter to Life Programme in Germany.</li>
+
+</ul>
+
+<br>
+
+<p>
+
+Along the way, I learned how to:
+
+</p>
+
+<br>
+
+<ul>
+
+<li>Find hidden internship opportunities.</li>
+
+<li>Write competitive CVs and resumes.</li>
+
+<li>Write strong motivation letters.</li>
+
+<li>Email professors professionally.</li>
+
+<li>Prepare successful scholarship applications.</li>
+
+<li>Prepare for interviews.</li>
+
+<li>Navigate visa and relocation processes.</li>
+
+</ul>
+
+<br>
+
+<p>
+
+This website is my way of giving back.
+
+Instead of spending months figuring everything out alone like I did, you
+can learn from my experiences, avoid common mistakes, and become a more
+competitive applicant for international internships and research programs.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="internships">
+
+<h2>Types of International Internships</h2>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>Research Internships</h3>
+
+<p>
+
+Research opportunities at universities and institutes for students in
+biology, medicine, chemistry, engineering, computer science and related
+fields.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Summer Research Programs</h3>
+
+<p>
+
+Fully-funded or partially funded programs lasting between 6 and 12 weeks,
+typically offered during university holidays.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Industry Internships</h3>
+
+<p>
+
+Gain practical experience in biotechnology, pharmaceuticals, engineering,
+technology and other industries.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>NGO & Global Health Internships</h3>
+
+<p>
+
+Work with international organizations addressing public health,
+sustainability, education and community development.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="tips">
+
+<h2>Application Tips</h2>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>Build a Strong CV</h3>
+
+<p>
+
+Highlight your achievements, projects, leadership, volunteering,
+technical skills and research experience.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Write a Great Motivation Letter</h3>
+
+<p>
+
+Explain your motivation, research interests and why you are a good fit for
+the opportunity.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Email Professors Professionally</h3>
+
+<p>
+
+Learn how to write concise and effective emails that increase your chances
+of receiving a response.
+
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Apply Widely</h3>
+
+<p>
+
+Do not rely on a single application. Competitive applicants submit many
+high-quality applications.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="documents">
+
+    <h2>Essential Application Documents</h2>
+
+    <p style="text-align:center; margin-bottom:30px;">
+        Click on any guide below to view the full image and learn how to prepare a strong application.
+    </p>
+
+    <div class="grid">
+
+        <div class="card">
+            <h3>📄 Dos and Don'ts / Resume</h3>
+
+            <a href="images/what-not-to-do.png" target="_blank">
+                <img src="images/what-not-to-do.png"
+                     alt="Don't"
+                     style="width:100%; border-radius:10px; margin:15px 0;">
+            </a>
+
+            <p>A step-by-step guide to writing a competitive academic CV for internships and research opportunities.</p>
+        </div>
+
+
+        <div class="card">
+            <h3>✍ Motivation Letter</h3>
+
+            <a href="images/motivation-letter1.png" target="_blank">
+                <img src="images/motivation-letter1.png"
+                     alt="Motivation Letter Guide"
+                     style="width:100%; border-radius:10px; margin:15px 0;">
+            </a>
+
+            <p>Learn how to write a compelling motivation letter that clearly communicates your goals and strengths.</p>
+        </div>
+
+
+        <div class="card">
+            <h3>📝 Recommendation Letter</h3>
+
+            <a href="images/recommendation-letter.png" target="_blank">
+                <img src="images/recommendation-letter.png"
+                     alt="Recommendation Letter Guide"
+                     style="width:100%; border-radius:10px; margin:15px 0;">
+            </a>
+
+            <p>Tips on requesting strong recommendation letters from supervisors and professors.</p>
+        </div>
+
+
+
+
+        <div class="card">
+            <h3>🎯 Statement of Purpose</h3>
+
+            <a href="images/sop.png" target="_blank">
+                <img src="images/sop.png"
+                     alt="Statement of Purpose Guide"
+                     style="width:100%; border-radius:10px; margin:15px 0;">
+            </a>
+
+            <p>Understand how to explain your academic journey, ambitions, and why you're the right fit.</p>
+        </div>
+
+
+        <div class="card">
+            <h3>timeline</h3>
+
+            <a href="images/timeline.png" target="_blank">
+                <img src="images/timeline.png"
+                     alt="Timeline"
+                     style="width:100%; border-radius:10px; margin:15px 0;">
+            </a>
+
+            <p>Learn how to write professional emails that increase your chances of receiving positive responses.</p>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<section id="contact">
+
+<h2>Contact Me</h2>
+
+<div class="about">
+
+<p>
+
+If you're preparing applications for international internships,
+scholarships, or research opportunities and need guidance, feel free to
+reach out.
+
+</p>
+
+<br>
+
+<p>
+
+<b>Name:</b> Ketura Yaje Gwei
+
+</p>
+
+<p>
+
+<h3>Connect With Me</h3>
+
+<p><strong>Email:</strong> <a href="mailto:gwei.ketura@ubuea.cm">gwei.ketura@ubuea.cm</a></p>
+
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ketura-yaje-gwei-167796233" target="_blank">
+linkedin.com/in/ketura-yaje-gwei-167796233
+</a></p>
+
+<p><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-2501-3294" target="_blank">
+0009-0004-2501-3294
+</a></p>
+
+<p><strong>TikTok:</strong> <a href="https://www.tiktok.com/@yaje651" target="_blank">
+@yaje651
+</a></p>
+
+<br>
+
+<p>
+
+My mission is simple:
+
+<b>Help more students become competitive applicants and access global
+research opportunities regardless of where they come from.</b>
+
+</p>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<h3>Ketura Yaje Gwei</h3>
+
+<p>
+
+International Research Internship Guide
+
+</p>
+
+<br>
+
+<p>
+
+© 2026 All Rights Reserved.
+
+</p>
+
+</footer>
+
+</body>
+</html>
